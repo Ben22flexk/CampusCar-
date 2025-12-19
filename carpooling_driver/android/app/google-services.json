@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396418475726",
+    "project_id": "campuscar-f7121",
+    "storage_bucket": "campuscar-f7121.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396418475726:android:ffc3aae388b504d88f129f",
+        "android_client_info": {
+          "package_name": "com.tarc.campuscar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvWjvwPj1DYQVH5Hlf8nW5mTUyAxPnD_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
